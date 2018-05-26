@@ -1,0 +1,4 @@
+# tensorflow
+CNN卷积神经网络处理Mnist手写数字识别数据集，tensorflow实现
+Mnist_cnn.py 该脚本文件是用TensorFlow框架实现CNN卷积神经网络处理Mnist手写数字识别，正确率达到99.2%
+Mnist_cnn_tensorboard.py 该脚本文件是在Mnist_cnn.py 的基础上实现可视化
